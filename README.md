@@ -1,13 +1,13 @@
 # engine_commit_data
 
-```
+```bash
 # To select which open bench instances to use, the INSTANCES variable in
 # the script must be edited
 python extract_openbench_html.py
 python extract_fishtest_data.py
 ```
 
-```
+```bash
 # This script extracts the diff and relevant files from the test info
 # and the github repos. However only focuses on the search code
 # so for a more general use it needs to be adapted. This should
