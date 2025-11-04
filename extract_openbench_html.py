@@ -121,21 +121,21 @@ def main():
     GIT_REPO_DIR = RESULT_DIR + "/git_repos"
     TEST_JSON_FILE_NAME = RESULT_DIR + "/tests.json"
     INSTANCES = [
-        # "http://chess.grantnet.us",
-        # "https://chess.swehosting.se",
-        # "https://chess.aronpetkovski.com",
-        # "https://pyronomy.pythonanywhere.com",
-        # "https://zzzzz151.pythonanywhere.com",
-        # "https://mcthouacbb.pythonanywhere.com",
-        # "https://somelizard.pythonanywhere.com",
-        # "https://programcidusunur.pythonanywhere.com",
-        # "https://openbench.lynx-chess.com",
-        # "https://openbench.jgilchrist.uk",
-        # "https://aytchell.eu.pythonanywhere.com",
-        # "https://analoghors.pythonanywhere.com",
-        # "https://kelseyde.pythonanywhere.com",
-        # "https://chess.n9x.co"
-        "https://tsoj.eu.pythonanywhere.com"
+        "http://chess.grantnet.us",
+        "https://chess.swehosting.se",
+        "https://chess.aronpetkovski.com",
+        "https://pyronomy.pythonanywhere.com",
+        "https://zzzzz151.pythonanywhere.com",
+        "https://mcthouacbb.pythonanywhere.com",
+        "https://somelizard.pythonanywhere.com",
+        "https://programcidusunur.pythonanywhere.com",
+        "https://openbench.lynx-chess.com",
+        "https://openbench.jgilchrist.uk",
+        "https://aytchell.eu.pythonanywhere.com",
+        "https://analoghors.pythonanywhere.com",
+        "https://kelseyde.pythonanywhere.com",
+        "https://chess.n9x.co"
+        #"https://tsoj.eu.pythonanywhere.com"
     ]
     INSTANCES.reverse()
 
